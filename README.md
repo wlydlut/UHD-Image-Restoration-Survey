@@ -190,7 +190,7 @@
             <td>Downsampling-Enhancement-Upsampling</td>
             <td>Cubic-Mixer</td>
             <td>Deblur</td>
-            <td>Ultra-High-Definition Image Deblurring via Multi-scale Cubic-Mixer</td>
+            <td>Ultra-high-definition image deblurring via multi-scale cubic-mixer</td>
             <td>ArXiv'24</td>
             <td><a href="https://arxiv.org/abs/2206.03678">Paper</a>/<a href="https://github.com/zzr-idam/deblur">Code</a></td>
         </tr>
