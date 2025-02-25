@@ -2,19 +2,24 @@
   
 # Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey
 
+<!--
+[Liyan Wang](https://wlydlut.github.io/), Weixiang Zhou, [Cong Wang](https://supercong94.wixsite.com/supercong94), Kin-Man Lam, [Zhixun Su](https://scholar.google.com/citations?user=ycFs33AAAAAJ&hl=en), and [Jinshan Pan](https://jspan.github.io/)
+-->
+
+---
 </div>
 
 
 ## Overview
 <div align="center">
-<img src="" alt="WX20241122 165719@2x" border="0"></a>
+<img src="https://github.com/wlydlut/UHD-Image-Restoration-Survey/blob/main/milestone.png" border="0"></a>
 </div>
 
-# 数据集(Datasets)
+## Datasets
 <table>
     <thead>
         <tr>
-            <th>Datasets</th>
+            <th>Datasets </th>
             <th>Restoration Task</th>
             <th>Number(Train/Test)</th>
             <th>Synthetic/Real</th>
@@ -23,7 +28,7 @@
             <th>DownLoad</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody align="center" valign="center">
          <tr>
             <td>UHDSR4K</td>
             <td>Image Super-Resolution</td>
@@ -155,6 +160,8 @@
             <th>Venue<br>(发表场所)</th>
             <th>Source<br>(资源)</th>
         </tr>
+    </thead>
+      <tbody align="center" valign="center">
        <tr>
             <td>Downsampling-Enhancement-Upsampling</td>
             <td>MANet</td>
@@ -299,7 +306,7 @@
             <td>CVPR'24</td>
             <td><a href="https://ieeexplore.ieee.org/abstract/document/10655566">Paper</a>/<a href="https://github.com/YPatrickW/LMAR">Code</a></td>
         </tr>
-    </thead>
     <tbody>
+    </table>
 
 
