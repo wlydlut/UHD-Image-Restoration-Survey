@@ -237,7 +237,7 @@
            <tr>
             <td>Downsampling-Enhancement-Upsampling</td>
             <td>UHDDIP</td>
-            <td>LLIE/Deblur/Dehaze/Derain/Desnow</td>
+            <td>LLIE/Deblur/Dehaze/ <br>Derain/Desnow</td>
             <td>Ultra-high-definition restoration: New benchmarks and A dual interaction prior-driven solution</td>
             <td>ArXiv'24</td>
             <td><a href="https://arxiv.org/abs/2406.13607">Paper</a>/<a href="https://github.com/wlydlut/UHDDIP">Code</a></td>
@@ -285,7 +285,7 @@
         <tr>
             <td>Encoder-Decoder with Stepwise Up-downsampling</td>
             <td>TSFormer</td>
-            <td>LLIE/Deblur/Dehaze/Derain/Desnow</td>
+            <td>LLIE/Deblur/Dehaze/<br>Derain/Desnow</td>
             <td>Tsformer: A robust framework for efficient uhd image restoration</td>
             <td>ArXiv'24</td>
             <td><a href="https://arxiv.org/abs/2411.10951">Paper</a>/</td>
