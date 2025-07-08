@@ -296,7 +296,7 @@
             <td>LLIE/Deblur/Dehaze</td>
             <td>DreamUHD: Frequency Enhanced Variational Autoencoder for Ultra-High-Definition Image Restoration</td>
             <td>AAAI'25</td>
-            <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32609">Paper</a>/</td>
+            <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32609">Paper</a>/<a href="https://github.com/lyd-2022/dreamUHD">Code</a></td>
         </tr>
           <tr>
             <td>Encoder-Decoder with Stepwise Up-downsampling</td>
@@ -312,7 +312,7 @@
             <td>LLIE/Deblur/Dehaze/<br>Derain</td>
             <td>From Zero to Detail: Deconstructing Ultra-High-Definition Image Restoration from Progressive Spectral Perspective</td>
             <td>CVPR'25</td>
-            <td><a href="https://arxiv.org/abs/2503.13165">Paper</a>/</td>
+            <td><a href="https://arxiv.org/abs/2503.13165">Paper</a>/<a href="https://github.com/NJU-PCALab/ERR">Code</a></td>
         </tr>
         <tr>
             <td>Resampling-Enhancement</td>
