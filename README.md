@@ -290,6 +290,30 @@
             <td>ArXiv'24</td>
             <td><a href="https://arxiv.org/abs/2411.10951">Paper</a>/</td>
         </tr>
+          <tr>
+            <td>Encoder-Decoder with Stepwise Up-downsampling</td>
+            <td>FEVAE-UHD</td>
+            <td>LLIE/Deblur/Dehaze</td>
+            <td>DreamUHD: Frequency Enhanced Variational Autoencoder for Ultra-High-Definition Image Restoration</td>
+            <td>AAAI'25</td>
+            <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32609">Paper</a>/</td>
+        </tr>
+          <tr>
+            <td>Encoder-Decoder with Stepwise Up-downsampling</td>
+            <td>UHD-processor</td>
+            <td>All-in-One</td>
+            <td>UHD-processer: Unified UHD Image Restoration with Progressive Frequency Learning and Degradation-aware Prompts</td>
+            <td>CVPR'25</td>
+            <td><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_UHD-processer_Unified_UHD_Image_Restoration_with_Progressive_Frequency_Learning_and_CVPR_2025_paper.pdf">Paper</a>/</td>
+        </tr>
+           <tr>
+            <td>Encoder-Decoder with Stepwise Up-downsampling</td>
+            <td>ERR</td>
+            <td>LLIE/Deblur/Dehaze/<br>Derain</td>
+            <td>From Zero to Detail: Deconstructing Ultra-High-Definition Image Restoration from Progressive Spectral Perspective</td>
+            <td>CVPR'25</td>
+            <td><a href="https://arxiv.org/abs/2503.13165">Paper</a>/</td>
+        </tr>
         <tr>
             <td>Resampling-Enhancement</td>
             <td>NSEN</td>
